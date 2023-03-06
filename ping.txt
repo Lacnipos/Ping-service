@@ -1,0 +1,16 @@
+http://blogsearch.google.com/ping/RPC2
+http://rpc.pingomatic.com/
+http://blogs.yandex.ru/pings/
+http://www.bing.com/webmaster/ping.aspx?siteMap=
+http://ping.baidu.com/ping.html
+http://blogsearch.google.ca/ping/RPC2
+http://blogsearch.google.co.uk/ping/RPC2
+http://blogsearch.google.com.tr/ping/RPC2
+http://blogsearch.google.com/ping/RPC2
+http://blogsearch.google.de/ping/RPC2
+http://blogsearch.google.es/ping/RPC2
+http://blogsearch.google.fi/ping/RPC2
+http://blogsearch.google.fr/ping/RPC2
+http://blogsearch.google.it/ping/RPC2
+http://blogsearch.google.jp/ping/RPC2
+http://blogsearch.google.ru/ping/RPC2
